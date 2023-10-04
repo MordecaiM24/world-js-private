@@ -196,7 +196,7 @@ module.exports = function(grunt) {
 
   // Full distribution task
   grunt.registerTask('dist', ['clean', 'dist-js', 'dist-css']);
-
+ 
   // Default task
   grunt.registerTask('default', ['test', 'dist']);
 };
