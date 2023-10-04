@@ -58,7 +58,7 @@ define(function() {
 
     storyBegin01:
 "About 250,000 years ago, our ancestors begin their lives in East Africa.<br>\
-They have extraordinary large brains and the ability of walking upright.",
+They have extraordinarily large brains and the ability to walking upright.",
     storyBegin02:
 "Therefore they are less muscular and born prematurely.<br>\
 They need to evolve stronger social ties and start living in small bands.",
